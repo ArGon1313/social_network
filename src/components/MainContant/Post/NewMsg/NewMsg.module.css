@@ -1,0 +1,41 @@
+
+.massage{
+    width: 90%;
+    height: auto;
+    display: flex;
+    justify-content: start;
+    background-color: #dcb080;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.massage img{
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 50%;
+
+}
+
+.massage p{
+    margin: 15px;
+    padding: 0;
+    width: 100%;
+
+}
+.likeVal {
+    margin: 0;
+    padding: 0;
+}
+
+.likeVal p{
+    margin: 0;
+    padding: 0;
+}
+
+.likeVal p{
+    margin-right: 20px;
+    margin-top: 15px;
+}

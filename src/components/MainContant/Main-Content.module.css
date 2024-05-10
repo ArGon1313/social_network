@@ -1,0 +1,14 @@
+
+.main{
+    width: 840px;
+    background-color: #c17422;
+    border-radius: 10px;
+}
+
+
+
+.mainPhoto img{
+    width: 100%;
+    height: 200px;
+    border-radius: 10px;
+}

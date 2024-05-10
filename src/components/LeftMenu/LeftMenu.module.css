@@ -1,0 +1,26 @@
+.leftMenu{
+    width: 220px;
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    background-color: #c4996c;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding-top: 10px;
+}
+.leftMenu a {
+    padding-left: 50px;
+    padding-top: 10px;
+    text-decoration: none;
+    color: #000000;
+    font-size: 20px;
+    background-color: #c4996c;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+.leftMenu a:hover {
+    background-color: #d8ae82;
+}

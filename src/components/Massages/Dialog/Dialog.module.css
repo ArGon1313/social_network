@@ -1,0 +1,10 @@
+
+.Dialog{
+    padding: 10px;
+    width: 640px;
+    height: 100%;
+    border: solid 1px #d8ae82;
+    border-radius: 10px;
+    background-color: #c4996c;
+}
+

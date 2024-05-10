@@ -1,0 +1,19 @@
+.friendMassage{
+    display: flex;
+}
+
+.friendMassage img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.friendMassage p{
+    width: auto;
+    height: auto;
+    background-color: #fff3e4;
+    margin-left: 5px;
+    padding: 10px;
+    margin-top: 13px;
+    border-radius: 10px;
+}
